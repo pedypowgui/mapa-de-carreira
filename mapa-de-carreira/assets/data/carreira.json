@@ -1,0 +1,195 @@
+{
+  "seo": {
+    "title": "Guilherme Brito | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Guilherme Brito, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Guilherme Brito",
+    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+  },
+  "profile": {
+    "name": "Guilherme Brito",
+    "headline": "Engenharia de IA · Automação",
+    "photo": "assets/images/foto_gui.png",
+    "photoAlt": "Foto Guilherme Brito com camisa do Proa",
+    "summary": "Sou Guilherme Brito dos Santos, estudante de Análise e Desenvolvimento de Sistemas pela Fatec Ferraz de Vasconcelos. Elaborei este plano para uma missão de vida: chegar ao espaço por meio da Inteligência Artificial.",
+    "cvUrl": "https://drive.google.com/file/d/1WsdqdSz_SgSy61R7I5lKV7q12FMCAS9K/view?usp=sharing"
+  },
+  "contacts": [
+    {
+      "label": " guidobritosantosss@gmail.com",
+      "url": "mailto:guidobritosantosss@gmail.com",
+      "icon": "bi-envelope-paper"
+    },
+    {
+      "label": " linkedin.com/in/guilhermebritodossantos/",
+      "url": "https://www.linkedin.com/in/guilhermebritodossantos/",
+      "icon": "bi-linkedin"
+    },
+    {
+      "label": " github.com/pedypowgui",
+      "url": "https://github.com/pedypowgui",
+      "icon": "bi-github"
+    }
+  ],
+  "careerSteps": [
+    {
+      "title": "Estagiário em IA & automação",
+      "description": 
+        "Auxiliar o desenvolvimento de soluções baseadas em IA para automação de processos e integração entre sistemas. Coleta, limpeza e organização de dados, testes em modelos de ML e LLMs e construção de fluxos automatizados.",
+      "softSkills": [
+        "Curiosidade/interesse em IA e Machine Learning;",
+        "Comunicacao clara para pedir ajuda e registrar aprendizados;",
+        "Organizacao para estudar, praticar e acompanhar tarefas;",
+        "Proatividade para auxilio da equipe."
+      ],
+      "roadmap": [
+        "Python",
+        "N8N",
+        "ML básico",
+        "RPA",
+        "Git",
+        "APIs de IA"
+      ]
+    },
+    {
+      "title": "Engenheiro de IA/ML Júnior",
+      "description": "Desenvolver e implementar modelos de Machine Learning em aplicações reais, incluindo assistentes baseados em APIs de LLMs. Coleta, tratamento e análise de dados, treinamento e ajuste de modelos para classificação, regressão e visão computacional.",
+      "softSkills": [
+        "Responsabilidade sobre entregas e prazos combinados;",
+        "Capacidade de explicar escolhas tecnicas para diferentes públicos;",
+        "Curiosidade/interesse em automação low-code;",
+        "Pensamento analítico para identificar melhorias em automações."
+      ],
+      "roadmap": [
+        "ML intermediário",
+        "NumPy/Pandas",
+        "AWS",
+        "Django",
+        "GenAI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "title": "Engenheiro de IA pleno",
+      "description": "Projetar e implementar soluções de IA completas, incluindo sistemas baseados em redes neurais e aplicações de IA generativa. Otimizar modelos para execução local (edge computing), pipelines de dados, integração de modelos em produção e arquiteturas como RAG (Retrieval-Augmented Generation) e agentes inteligentes.",
+      "softSkills": [
+        "Pensamento sistêmico;",
+        "Comunicação técnica para feedbacks em contatos com a equipe;",
+        "Autonomia para a resolução de problemas."
+      ],
+      "roadmap": [
+        "RAG",
+        "Django",
+        "LangGraph",
+        "SQL/NoSQL",
+        "Docker"
+      ]
+    },
+    {
+      "title": "Engenheiro de IA para sistemas autônomos",
+      "description": "Desenvolver sistemas inteligentes capazes de perceber o ambiente, tomar decisões e agir de forma autônoma em tempo real. Integrar IA com sensores e atuadores, utilizando visão computacional, algoritmos probabilísticos e sistemas de navegação para aplicações em drones, veículos espaciais e satélites.",
+      "softSkills": [
+        "Pensamento multidisciplinar;",
+        "Mentalidade científica para identificação e resolução de problemas;",
+        "Comunicação técnica avançada;",
+        "Facilidade para se adaptar a diferentes problemas."
+      ],
+      "roadmap": [
+        "Python",
+        "C/C++",
+        "SciPy",
+        "ROS",
+        "OpenCV",
+        "PyTorch",
+        "Gazebo"
+      ]
+    },
+    {
+      "title": "Pesquisador em IA para sistemas autônomos",
+      "description": "Desenvolver novas soluções e algoritmos para robótica, navegação e IA aplicada a sistemas complexos. Atuar em pesquisa científica, publicando artigos e criando tecnologias inovadoras para ambientes extremos, como exploração espacial.",
+      "softSkills": [
+        "Pensamento científico avançado;",
+        "Liderança técnica;",
+        "Comunicação acadêmica;",
+        "Resiliência intelectual."
+      ],
+      "roadmap": [
+        "PyTorch",
+        "TensorFlow",
+        "Big data",
+        "Estatística avançada",
+        "Probabilística avançada"
+      ]
+    },
+    {
+      "title": "Astronauta",
+      "description": "Participar em missões espaciais, operar sistemas complexos e conduzir experimentos científicos em ambiente de microgravidade. Resolver problemas complexos em tempo real, manutencionar sistemas e executar tarefas técnicas e científicas em condições extremas.",
+      "softSkills": [
+        "Controle emocional extremo;",
+        "Trabalho em equipe de alto nível;",
+        "Tomada de decisões sob pressão;",
+        "Comunicação científica precisa;",
+        "Adaptabilidade extrema;"
+      ],
+      "roadmap": [
+        "Doutorado/PHD",
+        "Inglês fluente",
+        "Condicionamento físico",
+        "Sistemas espaciais",
+        "Simulações operacionais"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Front-end",
+      "skills": [
+        {
+          "name": "JavaScript",
+          "level": 75
+        },
+        {
+          "name": "React",
+          "level": 40
+        },
+        {
+          "name": "Bootstrap",
+          "level": 90
+        },
+        {
+          "name": "Python",
+          "level": 60
+        }
+      ]
+    },
+    {
+      "title": "Back-end e dados",
+      "skills": [
+        {
+          "name": "Spring",
+          "level": 45
+        },
+        {
+          "name": "MySQL",
+          "level": 80
+        }
+      ]
+    }
+  ],
+  "otherSkills": [
+    "Git/Github",
+    "Comunicacao",
+    "Scrum",
+    "ML básico",
+    "Automação low-code"
+  ],
+  "languages": [
+    {
+      "name": "Português",
+      "level": "Nativo"
+    },
+    {
+      "name": "Inglês",
+      "level": "B1"
+    }
+  ]
+}
