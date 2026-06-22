@@ -140,11 +140,15 @@
       ]
     },
     {
-      "title": "Back-end e dados",
+      "title": "Back-end e automação",
       "skills": [
         {
+          "name": "UiPath",
+          "level": 50
+        },
+        {
           "name": "Spring",
-          "level": 45
+          "level": 40
         },
         {
           "name": "MySQL",
@@ -159,10 +163,13 @@
   ],
   "otherSkills": [
     "Git/Github",
-    "Comunicacao",
     "Scrum",
-    "ML básico",
-    "Automação low-code"
+    "Comunicação",
+    "ML",
+    "RPA",
+    "Lógica de programação",
+    "C/C++",
+    "Web Scraping"
   ],
   "languages": [
     {
